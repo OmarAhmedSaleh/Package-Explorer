@@ -83,7 +83,9 @@ public class Main {
                 break;
             case "s": saveFile();
                 break;
-            default : printClass(input);
+            default :
+                System.out.println("invalid input");
+            	subMenu();
                 break;
         }
     }
