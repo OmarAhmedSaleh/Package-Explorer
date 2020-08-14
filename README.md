@@ -9,7 +9,7 @@ Package Explorer uses Java Reflection API to list all the .class files in the sp
 * Providers - list of classes within the same directory that this class depends on. 
 * Clients - list of classes within the same directory that depend on this class.
 
-The program allows saving individual/all class files in XML by serializing with Java's XMLEncoder library. You can load files back in the program by choosing to load previosly saved XML file containing all classes.  
+The program allows saving individual/all class files in XML by serializing with Java's XMLEncoder library. You can load files back in the program by choosing to load previously saved XML files containing all classes.  
 
 ## Usage
 
