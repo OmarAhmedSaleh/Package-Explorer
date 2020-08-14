@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.7" class="java.beans.XMLDecoder">
+ <object class="ClassData">
+  <void property="clients">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="fields">
+   <array class="java.lang.String" length="4">
+    <void index="0">
+     <string>path : String</string>
+    </void>
+    <void index="1">
+     <string>classLoader : ClassLoader</string>
+    </void>
+    <void index="2">
+     <string>lastFileName : String</string>
+    </void>
+    <void index="3">
+     <string>serializer : Serialization</string>
+    </void>
+   </array>
+  </void>
+  <void property="interfaces">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="methods">
+   <array class="java.lang.String" length="11">
+    <void index="0">
+     <string>main: public static</string>
+    </void>
+    <void index="1">
+     <string>load: private static</string>
+    </void>
+    <void index="2">
+     <string>showMainMenu: private static</string>
+    </void>
+    <void index="3">
+     <string>pathSetter: private static</string>
+    </void>
+    <void index="4">
+     <string>printClasses: private static</string>
+    </void>
+    <void index="5">
+     <string>subMenu: private static</string>
+    </void>
+    <void index="6">
+     <string>printClass: private static</string>
+    </void>
+    <void index="7">
+     <string>printClassFromMap: private static</string>
+    </void>
+    <void index="8">
+     <string>saveFile: private static</string>
+    </void>
+    <void index="9">
+     <string>saveAllClasses: private static</string>
+    </void>
+    <void index="10">
+     <string>loadSavedFile: private static</string>
+    </void>
+   </array>
+  </void>
+  <void property="name">
+   <string>Main</string>
+  </void>
+  <void property="providers">
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <string>ClassLoader</string>
+    </void>
+    <void method="add">
+     <string>Serialization</string>
+    </void>
+   </object>
+  </void>
+  <void property="superClassName">
+   <string>Object</string>
+  </void>
+ </object>
+</java>

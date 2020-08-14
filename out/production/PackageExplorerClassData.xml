@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.7" class="java.beans.XMLDecoder">
+ <object class="ClassData">
+  <void property="clients">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="fields">
+   <array class="java.lang.String" length="7">
+    <void index="0">
+     <string>name : String</string>
+    </void>
+    <void index="1">
+     <string>superClassName : String</string>
+    </void>
+    <void index="2">
+     <string>interfaces : ArrayList</string>
+    </void>
+    <void index="3">
+     <string>fields : String[]</string>
+    </void>
+    <void index="4">
+     <string>methods : String[]</string>
+    </void>
+    <void index="5">
+     <string>providers : ArrayList</string>
+    </void>
+    <void index="6">
+     <string>clients : ArrayList</string>
+    </void>
+   </array>
+  </void>
+  <void property="interfaces">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="methods">
+   <array class="java.lang.String" length="22">
+    <void index="0">
+     <string>getProviders: public</string>
+    </void>
+    <void index="1">
+     <string>setFields: public</string>
+    </void>
+    <void index="2">
+     <string>setProviders: public</string>
+    </void>
+    <void index="3">
+     <string>toString: public</string>
+    </void>
+    <void index="4">
+     <string>getName: public</string>
+    </void>
+    <void index="5">
+     <string>getInterfaces: public</string>
+    </void>
+    <void index="6">
+     <string>getFields: public</string>
+    </void>
+    <void index="7">
+     <string>getMethods: public</string>
+    </void>
+    <void index="8">
+     <string>setName: public</string>
+    </void>
+    <void index="9">
+     <string>printClass: public</string>
+    </void>
+    <void index="10">
+     <string>setClients: public</string>
+    </void>
+    <void index="11">
+     <string>setSuperClassName: public</string>
+    </void>
+    <void index="12">
+     <string>setInterfaces: public</string>
+    </void>
+    <void index="13">
+     <string>setMethods: public</string>
+    </void>
+    <void index="14">
+     <string>getSuperClassName: public</string>
+    </void>
+    <void index="15">
+     <string>getClients: public</string>
+    </void>
+    <void index="16">
+     <string>printProviders: public</string>
+    </void>
+    <void index="17">
+     <string>printClients: public</string>
+    </void>
+    <void index="18">
+     <string>printFields: public</string>
+    </void>
+    <void index="19">
+     <string>printMethods: public</string>
+    </void>
+    <void index="20">
+     <string>printInterfaces: public</string>
+    </void>
+    <void index="21">
+     <string>printSuperclass: public</string>
+    </void>
+   </array>
+  </void>
+  <void property="name">
+   <string>ClassData</string>
+  </void>
+  <void property="providers">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="superClassName">
+   <string>Object</string>
+  </void>
+ </object>
+</java>
